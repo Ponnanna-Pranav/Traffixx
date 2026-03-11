@@ -1,0 +1,23 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ---------------------< com.CabBooking:cabbooking >----------------------
+[INFO] Building cabbooking 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.5.0:clean (default-clean) @ cabbooking ---
+[INFO] Deleting C:\Users\Prana\Documents\DSU\Placements\Labmentix-internship\Project_5\cabbooking\cabbooking\target
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ cabbooking ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.14.1:compile (default-compile) @ cabbooking ---
+[INFO] Recompiling the module because of changed source code.
+[INFO] Compiling 36 source files with javac [debug parameters release 17] to target\classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.656 s
+[INFO] Finished at: 2026-03-01T15:49:37+05:30
+[INFO] ------------------------------------------------------------------------
